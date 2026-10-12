@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pulse Ring</string>
+    <string name="theme_label">Theme</string>
+    <string name="show_arc_label">Step progress arc</string>
+    <string name="slot_left">Left ring (e.g. Alarm)</string>
+    <string name="slot_right">Right ring (e.g. Sleep)</string>
+    <string name="slot_bottom">Bottom ring (e.g. Next event)</string>
+    <string name="theme_mint">Mint</string>
+    <string name="theme_mint_inv">Mint inverted</string>
+    <string name="theme_gold">Gold</string>
+    <string name="theme_gold_inv">Gold inverted</string>
+    <string name="theme_orange">Orange</string>
+    <string name="theme_orange_inv">Orange inverted</string>
+    <string name="theme_ice">Ice Blue</string>
+    <string name="theme_ice_inv">Ice Blue inverted</string>
+    <string name="theme_lime">Lime</string>
+    <string name="theme_lime_inv">Lime inverted</string>
+    <string name="theme_red">Red</string>
+    <string name="theme_red_inv">Red inverted</string>
+    <string name="theme_silver">Silver</string>
+    <string name="theme_silver_inv">Silver inverted</string>
+    <string name="theme_pink">Pink</string>
+    <string name="theme_pink_inv">Pink inverted</string>
+</resources>
